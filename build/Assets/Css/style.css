@@ -1,0 +1,43 @@
+/* CountryFinder.css */
+
+h2 {
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 300px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  li {
+    margin: 10px;
+    text-align: center;
+    max-width: 200px;
+  }
+  
+  img {
+    width: 100px;
+    height: auto;
+  }
+  
